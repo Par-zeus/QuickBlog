@@ -153,7 +153,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📧 Contact
 
-For questions or support, contact [your.email@example.com](mailto:dasparthhh24@gmail.com)
+For questions or support, contact [dasparthhh24@gmail.com](mailto:dasparthhh24@gmail.com)
 
 ---
 
